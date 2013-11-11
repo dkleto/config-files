@@ -1,0 +1,10 @@
+:set number
+:syntax on
+:set tabstop=4
+:set shiftwidth=4
+:set expandtab
+:set autoindent
+:set smartindent
+:set ruler
+:set t_Co=256
+:set ls=2
