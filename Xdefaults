@@ -1,0 +1,109 @@
+
+URxvt*termName: rxvt
+URxvt*scrollBar_right: true
+URxvt*scrollBar: true
+URxvt*scrollstyle: plain
+URxvt*scrollColor: #aaaaaa
+URxvt*thickness: 7 
+URxvt*borderLess: false
+URxvt*cursorBlink: true
+urxvt*font:             xft:Ubuntu Mono:pixelsize=16
+urxvt*boldFont:             xft:Ubuntu Mono:pixelsize=16
+
+##! Colors
+*background:                    #222222
+*foreground:                    #c2c2b0
+
+## transparency
+##urxvt*transparent: true
+##urxvt*shading: 20
+
+!colors:
+!scheme: pnevma
+!*foreground: #696969
+!*background: #282626
+##*foreground: #6F6767
+##*background: #3A3636
+*color0: #363636
+*color8: #424242
+*color1: #C37561
+*color9: #D19485
+*color2: #A0A57E
+*color10: #B6B99D
+*color3: #D1A375
+*color11: #DEBC9C
+*color4: #7985A3
+*color12: #98A1B9
+*color5: #AB716D
+*color13: #BE918E
+*color6: #98B9B1
+*color14: #CBE6CB
+*color7: #D0D0D0
+*color15: #E6E6E6
+
+
+##! Black + DarkGrey
+##*color0:                        #262626
+##*color8:                        #73675b
+##! DarkRed + Red
+##*color1:                        #a64211
+##*color9:                        #cc5214
+##! DarkGreen + Green
+##*color2:                        #638046
+##*color10:                       #80a65b
+##! DarkYellow + Yellow
+##*color3:                        #bf8c25
+##*color11:                       #e6a82d
+##! DarkBlue + Blue
+##*color4:                        #4d6d99
+##*color12:                       #6088bf
+##! DarkMangenta + Mangenta
+##*color5:                        #996b89
+##*color13:                       #bf86ac
+##! DarkCyan + Cyan
+##*color6:                        #6b8e99
+##*color14:                       #86b1bf
+##! LightGrey + White
+##*color7:                        #998a7a
+##*color15:                       #c2c2b0
+
+##URxvt.foreground: #CCCCCC
+##URxvt.background: #4B5D7E
+##
+##! Normal
+##! color0    black
+##! color1    red
+##! color2    green
+##! color3    yellow
+##! color4    blue
+##! color5    purple
+##! color6    cyan
+##! color7    white
+##
+##urxvt.color0:    #6c6c6c
+##urxvt.color1:    #e9897c
+##urxvt.color2:    #b6e77d
+##urxvt.color3:    #ecebbe
+##urxvt.color4:    #a9cdeb
+##urxvt.color5:    #ea96eb
+##urxvt.color6:    #c9caec
+##urxvt.color7:    #CCCCCC
+##
+##! Light
+##! color8     black
+##! color9     red
+##! color10    green
+##! color11    yellow
+##! color12    blue
+##! color13    purple
+##! color14    cyan
+##! color15    white
+##
+##urxvt.color8:    #747474
+##urxvt.color9:    #f99286
+##urxvt.color10:    #c3f786
+##urxvt.color11:    #fcfbcc
+##urxvt.color12:    #b6defb
+##urxvt.color13:    #fba1fb
+##urxvt.color14:    #d7d9fc
+##urxvt.color15:    #e2e2e2

@@ -119,7 +119,7 @@ export VISUAL='vim'
 export EDITOR='vim'
 ##export PS1='\u@\h:\w\a$(__git_ps1 " (%s)")\$ '
 
-## Causes the prompt to exhibit vi-esque behaviour
+## Causes the prompt to exhibit vi-esque behaviour. Ths will probably drive you insane if you're not a user of hjkl for navigation.
 set -o vi
 ## Allows for 256 colour in tmux
 alias tmux="TERM=xterm-256color tmux"
